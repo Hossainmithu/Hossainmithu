@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Delowar Hossain
 #### Web Developer
-(![Delowar Hossain](https://github.com/user-attachments/assets/016beb10-60b8-4226-9f27-b7841ccf573b))
+![Delowar Hossain](https://github.com/user-attachments/assets/016beb10-60b8-4226-9f27-b7841ccf573b))
 
 "I am a passionate and motivated web developer who began my coding journey a few months ago. In this short time, I've gained hands-on experience with HTML, CSS, JavaScript, React, and Express, building dynamic and responsive web applications. I am eager to continue learning, improving my skills, and creating impactful projects that solve real-world problems."
 
